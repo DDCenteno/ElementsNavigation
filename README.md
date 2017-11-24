@@ -36,7 +36,7 @@ ___
 Tipos de Navegación:
 * Global: Navegación principal de la pagina
 
-![Global](assets/images/globalMedium.JPG)
+![Global](assets/images/globalMedium.jpg)
 
 * Filtrada: Navegación segun busqueda propia del usuario y se entrega filtros de las publicaciones segun lo que se escriba.
 
